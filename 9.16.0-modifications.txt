@@ -1,0 +1,8 @@
+The following provides a list of file modifications within the atlassian-jira directory.
+
+Modified files: 
+	(none)
+Removed files:
+	(none)
+Added files:
+	(none)
